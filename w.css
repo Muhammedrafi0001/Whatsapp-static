@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Ubuntu&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 0%;
+}
+header{
+height:92px;
+background-color:#128c7e;
+width:100%;
+}
+.left_part{
+    padding-left:35PX;
+  
+    
+    width:24%;
+    height:92px;
+    padding-right:px;
+}
+.right_part{
+    color: #FFF;
+    word-spacing:20px;
+    margin-top: -54PX;
+    margin-left:530PX;
+    height:92px;
+    
+    word-spacing:44px;
+    padding-right:30px;     
+}
+
+#last_part{
+    margin-inline:6px;
+    color: rgb(255, 255, 255);
+    
+    
+}
+#headf{
+    margin-inline:-48px;
+    
+}
+.whatsapp{
+    margin-top:24px;
+    margin-left:250px;
+}
+#web{
+    word-spacing:5px;
+}
+.left2{
+    width:50%;
+    height:600px;
+    float:left;
+   
+}
+#bold{
+    font-size:29px;
+    
+    margin-top:80px;
+    margin-left:360px;
+   
+}
+#words{
+    font-size:20px;
+    margin-left:360px;   
+   
+}
+#swords{
+    font-size:18px;
+    margin-left:360px;   
+}
+.sympels{
+    display: inline;
+    margin-top:29px;
+    margin-left:360px;   
+}
+
+#devis{
+    margin-top:-136px;
+    margin-left:400px;   
+    cursor: pointer;    
+}
+#devis:hover{
+    text-decoration: underline
+
+}
+
+#devis1{
+    margin-left:400px; 
+    margin-top:38px;
+    cursor: pointer;
+}
+#devis1:hover{
+    text-decoration: underline
+
+}
+#devis2{
+    margin-left:400px; 
+    margin-top:33px;
+    cursor: pointer;
+   
+}
+#devis2:hover{
+    text-decoration: underline
+
+}
+#g1{
+    margin-left:460px; 
+   padding-top:px;
+}
+
+.right2{
+    width:50%;
+    height:600px;
+     float:left; 
+   
+}
+.photo_right{
+    width:280px;
+}
+.main3{
+    width: 100%;
+    height:100px;
+    display: grid;
+    margin-left: 2%;
+    margin-right: 2%;
+    grid-template-columns:47% 47%;
+    column-gap:2%;
+}
+.left3{
+background-color: rgb(215, 230, 230);
+height:881px;
+}
+.app{
+    text-align: center;
+    margin-top:85px;
+}
+.messages{
+    text-align: center;
+    font-size:20px; 
+}
+.messages2{
+    text-align: center; 
+    font-size:20px; 
+}
+.right3{
+background-color: rgb(223, 229, 228);
+height:881pxpx;
+}
+#left3_photo{
+  width:400px;
+  margin-left:139px;
+  margin-top:70px;
+}
+#right3_photo{
+   margin-left:135px;
+   width:450px;
+}
+#end{
+    font-size:20px;
+    color: rgb(43, 65, 65);
+    text-align: center;
+}
+#dy{
+    text-align: center;
+}
+.some{
+    text-align: center; 
+    font-size:20px;
+}
+.null{
+    margin-top:783px;
+  height:200px;
+  
+}
+#button{
+    margin-top:70px;
+   margin-left:660px;
+   color: rgb(9, 92, 92);
+  height:55px;
+  width:220px;
+  border-radius:60px;
+  border-style: solid;
+  border-color:rgb(4, 102, 100);
+  background-color: #FFF; 
+}
+footer{
+    width:100%;
+    height:400px;
+    background-color: rgb(30, 42, 62); 
+}
+.first{
+    width:100%;
+    height:320px;
+    background-color: rgb(30, 42, 62);
+    display: grid;
+    grid-template-columns:35% 21% 22% 22%;
+}
+
+#one1{
+    margin-top:50px;
+    font-size:17px;
+   text-align: center;
+   color: #FFF;
+
+}
+#text{
+   margin-left:219px;
+   font-size:15px; 
+   color: #FFF;  
+}
+#two2{
+    margin-top:50px;
+    font-size:17px;
+   text-align: center;
+   color: #FFF;
+}
+#text2{
+    margin-left:120px;
+    font-size:15px; 
+    color: #FFF;
+}
+#three3{
+    margin-top:50px;
+    font-size:17px;
+   text-align: center;
+   color: #FFF;
+}
+#text3{
+    margin-left:120px;
+    font-size:15px; 
+    color: #FFF; 
+}
+#for4{
+    margin-top:50px;
+    font-size:17px;
+   text-align: center; 
+   color: #FFF; 
+}
+#text4{
+    
+        margin-left:146px;
+        font-size:15px; 
+        color: #FFF;
+}
+.second{
+    background-color: rgb(21, 20, 20); 
+    width: 100%;
+    height: 80px;  
+}
+#llc{
+    color: #FFF;
+    font-size:18px;
+    margin-left:210px;
+   padding-top:3px;
+   display:inline-block
+}
+#terms{
+    margin-left:800px;
+    color: #FFF;
+    
+    display:inline-block
+    
+}
